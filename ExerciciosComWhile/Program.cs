@@ -12,4 +12,6 @@ using ExerciciosComWhile;
 // Exercicio9.Main(args);
 // Exercicio10.Main(args);
 //Exercicio11.Main(args);
-Exercicio12.Main(args);
+// Exercicio12.Main(args);
+// Exercicio13.Main(args);
+Exercicio14.Main(args);
